@@ -3,9 +3,13 @@
         [
             "asuna/asuna04",
             "asuna/asuna33"
-        ]
+        ],
+        "izumi",
+        "miku"
     ],
     "messages": [
-        "SAO asuna"
+        "SAO asuna，请多关照！",
+        "你好啊，我是izumi",
+        "你好啊，我是miku"
     ]
 }
