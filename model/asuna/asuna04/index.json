@@ -1,4 +1,5 @@
 {
+	"version":"Sample 1.0.0",
 	"type":"Live2D Model Setting",
     "name":"asuna_04",
 	"model":"moc/asuna_04.moc",
@@ -46,9 +47,9 @@
 			{"file":"mtn/I_ANGRY_S.mtn"}
 		],
 		"idle":[
-			{"file":"mtn/IDLING_01.mtn"},
-			{"file":"mtn/IDLING_02.mtn"},
-			{"file":"mtn/IDLING_03.mtn"}
+			{"file":"mtn/IDLING_01.mtn", "fade_in": 2000, "fade_out": 2000},
+			{"file":"mtn/IDLING_02.mtn", "fade_in": 2000, "fade_out": 2000},
+			{"file":"mtn/IDLING_03.mtn", "fade_in": 2000, "fade_out": 2000}
 		]
 	},
 	"physics":"asuna_04.physics.json"
