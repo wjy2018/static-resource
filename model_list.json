@@ -1,10 +1,8 @@
 {
     "models": [
-        "asuna04",
-        "asuna33",
+        "asuna_01",
+        "asuna_02",
         [
-            "asuna_01",
-            "asuna_02",
             "asuna_03",
             "asuna_04",
             "asuna_05",
