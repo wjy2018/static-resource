@@ -2,19 +2,17 @@
     "models": [
         "asuna_01",
         "asuna_02",
-        [
-            "asuna_03",
-            "asuna_04",
-            "asuna_05",
-            "asuna_06",
-            "asuna_07",
-            "asuna_08",
-            "asuna_09"
-        ]
+        "asuna_05",
+        "asuna_06",
+        "asuna_14",
+        "asuna_33"
     ],
     "messages": [
-        "SAO asuna，请多关照！",
-        "SAO asuna，请多关照！",
-        "SAO asuna，请多关照！"
+        "SAO asuna01，请多关照！",
+        "SAO asuna02，请多关照！",
+        "SAO asuna05，请多关照！",
+        "SAO asuna06，请多关照！",
+        "SAO asuna14，请多关照！",
+        "SAO asuna33，请多关照！"
     ]
 }
